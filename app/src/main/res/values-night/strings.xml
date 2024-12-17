@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="resource">Resource</string>
+    <string name="victim_voice">Victim Voice</string>
+    <string name="set_screen">Set screen</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">foresti</string>
+    <string name="resource">Resource</string>
+    <string name="victim_voice">Victim Voice</string>
+    <string name="home">Home</string>
+    <string name="messenger">Messenger</string>
+    <string name="call">Call</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+    <string name="law">Law</string>
+    <string name="follow_me">Follow me</string>
+    <string name="test">Test</string>
+    <string name="set_screen">Set screen</string>
+    <string name="hi_ahihi_dev">Hi, ahihi dev</string>
+    <string name="ok">OK</string>
+    <string name="set_number_for_fake_screen_calculator">Set number for fake screen calculator</string>
+    <string name="choose_contact">Choose Contact</string>
+    <string name="set_phone">Set Phone</string>
+    <string name="set_phone_number_to_call">Set phone number to call</string>
+    <string name="search_map">Search map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

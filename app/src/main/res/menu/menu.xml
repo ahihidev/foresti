@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_resource"
+        android:icon="@drawable/menu_resource"
+        android:title="@string/resource" />
+    <item
+        android:id="@+id/menu_victim_voice"
+        android:icon="@drawable/menu_victim_voice"
+        android:title="@string/victim_voice" />
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/menu_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/menu_messenger"
+        android:icon="@drawable/menu_messenger"
+        android:title="@string/messenger" />
+    <item
+        android:id="@+id/menu_call"
+        android:icon="@drawable/menu_call"
+        android:title="@string/call" />
+</menu>
